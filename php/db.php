@@ -1,9 +1,9 @@
 <?php
 
 function Createdb(){
-    $servername = "backenddb";
+    $servername = "database-1.cc7fo93spyan.us-east-1.rds.amazonaws.com";
     $username = "root";
-    $password = "root123";
+    $password = "anil1529";
     $dbname = "bookstore";
 
     // create connection
